@@ -1,0 +1,29 @@
+[
+
+    {
+        "id": 1,
+        "word": "factory",
+        "kelime": "fabrika",
+        "sentences":"a building or group of buildings where goods are manufactured or assembled chiefly by machine.",
+        "state":0
+    },
+    
+    {
+        "id": 2,
+        "word": "factory",
+        "kelime": "fabrika",
+        "sentences":"a building or group of buildings where goods are manufactured or assembled chiefly by machine.",
+        "state":0
+    },
+    {
+        "id": 3,
+        "word": "factory",
+        "kelime": "fabrika",
+        "sentences":"a building or group of buildings where goods are manufactured or assembled chiefly by machine.",
+        "state":1
+    }
+
+
+
+]
+
